@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "Cartoon stream",
+      "description": "Kids stream",
+      "id": 1
+    },
+    {
+      "title": "My third stream",
+      "description": "Created By Me",
+      "id": 3
+    },
+    {
+      "title": "Best stream ever",
+      "description": "Stream created in a meantime",
+      "userId": "108972125439119804694",
+      "id": 4
+    }
+  ]
+}
